@@ -80,4 +80,4 @@ flowchart LR
 - [[UserGate_СОВ]]
 - [[NGFW_vs_Firewall]]
 - [[Протокол_TLS_и_PKI]]
-- [[UserGate_Журналы]]
+- [[Inbox/30_Ресурсы/Конспекты_занятий_неразобранное/NGFW_UserGate/UserGate_Журналы]]

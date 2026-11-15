@@ -121,4 +121,4 @@ flowchart TB
 - [[UserGate_Правила_Firewall]]
 - [[Inbox/30_Ресурсы/Конспекты_занятий_неразобранное/NGFW_UserGate/UserGate_Web_Фильтрация]]
 - [[Inbox/30_Ресурсы/Конспекты_занятий_неразобранное/NGFW_UserGate/UserGate_SSL_Инспекция]]
-- [[UserGate_Практика_Доступ_в_Интернет]]
+- [[Inbox/30_Ресурсы/Конспекты_занятий_неразобранное/NGFW_UserGate/UserGate_Практика_Доступ_в_Интернет]]
