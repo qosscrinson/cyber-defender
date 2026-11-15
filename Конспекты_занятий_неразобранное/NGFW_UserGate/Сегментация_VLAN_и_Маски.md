@@ -108,4 +108,4 @@ show ip interface brief  # IP и маска на SVI
 - [[Сегментация_Сети]]
 - [[UserGate_NGFW]]
 - [[UserGate_Правила_Firewall]]
-- [[Коммутатор_L3]]
+- [[30_Ресурсы/30_01_IT/Сети/Коммутатор_L3]]
