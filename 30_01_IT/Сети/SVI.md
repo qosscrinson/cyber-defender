@@ -96,5 +96,5 @@ show vlan brief            # какие VLAN есть
 - [[30_Ресурсы/30_01_IT/Сети/Коммутатор_L3]]
 - [[30_Ресурсы/30_01_IT/Сети/Коммутатор_L3_Plus]]
 - [[Межвлановая_Маршрутизация]]
-- [[Router_on_a_Stick]]
-- [[Switchport_no_switchport]]
+- [[30_Ресурсы/30_01_IT/Сети/Router_on_a_Stick]]
+- [[30_Ресурсы/30_01_IT/Сети/Switchport_no_switchport]]
