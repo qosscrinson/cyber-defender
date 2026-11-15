@@ -121,4 +121,4 @@ flowchart TB
 - [[KSC_Управление_Политиками]]
 - [[KES_Файловая_Защита]]
 - [[Kaspersky_Архитектура]]
-- [[MOC_Kaspersky]]
+- [[40_Архив/MOC_Kaspersky]]
