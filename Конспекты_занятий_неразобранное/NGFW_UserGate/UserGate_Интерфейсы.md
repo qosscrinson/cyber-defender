@@ -103,5 +103,5 @@ flowchart TB
 - [[UserGate_NGFW]]
 - [[UserGate_Зоны]]
 - [[VLAN]]
-- [[Сегментация_VLAN_и_Маски]]
+- [[Inbox/30_Ресурсы/Конспекты_занятий_неразобранное/NGFW_UserGate/Сегментация_VLAN_и_Маски]]
 - [[UserGate_Правила_Firewall]]

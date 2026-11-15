@@ -78,6 +78,6 @@ flowchart LR
 ## Связи
 - [[UserGate_Web_Фильтрация]]
 - [[UserGate_СОВ]]
-- [[NGFW_vs_Firewall]]
+- [[Inbox/30_Ресурсы/Конспекты_занятий_неразобранное/NGFW_UserGate/NGFW_vs_Firewall]]
 - [[Протокол_TLS_и_PKI]]
 - [[Inbox/30_Ресурсы/Конспекты_занятий_неразобранное/NGFW_UserGate/UserGate_Журналы]]

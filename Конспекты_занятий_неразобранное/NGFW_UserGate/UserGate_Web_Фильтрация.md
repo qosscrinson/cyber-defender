@@ -93,5 +93,5 @@ flowchart LR
 - [[UserGate_NGFW]]
 - [[UserGate_Правила_Firewall]]
 - [[Inbox/30_Ресурсы/Конспекты_занятий_неразобранное/NGFW_UserGate/UserGate_SSL_Инспекция]]
-- [[NGFW_vs_Firewall]]
+- [[Inbox/30_Ресурсы/Конспекты_занятий_неразобранное/NGFW_UserGate/NGFW_vs_Firewall]]
 - [[Inbox/30_Ресурсы/Конспекты_занятий_неразобранное/NGFW_UserGate/UserGate_Журналы]]
