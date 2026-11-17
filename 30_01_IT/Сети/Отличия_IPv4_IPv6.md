@@ -76,5 +76,5 @@ tcpdump -i eth0 -vv 'ip6'
 ## Связи
 - [[IPv6]]
 - [[SLAAC_DHCPv6]]
-- [[Multicast_Anycast]]
+- [[30_Ресурсы/30_01_IT/Сети/Multicast_Anycast]]
 - [[30_Ресурсы/30_01_IT/Сети/Проблемы_перехода_IPv6]]
