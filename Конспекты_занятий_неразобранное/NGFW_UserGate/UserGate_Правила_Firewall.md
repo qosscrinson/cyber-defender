@@ -92,7 +92,7 @@ flowchart TB
 
 ## Связи
 - [[UserGate_NGFW]]
-- [[Firewall]]
+- [[30_Ресурсы/30_01_IT/Сети/Firewall]]
 - [[VLAN]]
-- [[DMZ]]
+- [[30_Ресурсы/30_01_IT/Сети/DMZ]]
 - [[Сетевые_Порты]]

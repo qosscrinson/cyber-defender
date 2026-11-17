@@ -150,4 +150,4 @@ ssh -Q key         # типы ключей
 - [[UserGate_NGFW]]
 - [[UserGate_Правила_Firewall]]
 - [[VPN_как_Overlay]]
-- [[Firewall]]
+- [[30_Ресурсы/30_01_IT/Сети/Firewall]]

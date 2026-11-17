@@ -88,5 +88,5 @@ Connections per second: 100
 - [[UserGate_NGFW]]
 - [[UserGate_Зоны]]
 - [[UserGate_Правила_Firewall]]
-- [[Firewall]]
+- [[30_Ресурсы/30_01_IT/Сети/Firewall]]
 - [[Inbox/30_Ресурсы/Конспекты_занятий_неразобранное/NGFW_UserGate/UserGate_Журналы]]

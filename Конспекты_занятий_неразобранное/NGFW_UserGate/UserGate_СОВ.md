@@ -89,5 +89,5 @@ flowchart LR
 - [[UserGate_NGFW]]
 - [[UserGate_Правила_Firewall]]
 - [[Inbox/30_Ресурсы/Конспекты_занятий_неразобранное/NGFW_UserGate/NGFW_vs_Firewall]]
-- [[Firewall]]
-- [[DMZ]]
+- [[30_Ресурсы/30_01_IT/Сети/Firewall]]
+- [[30_Ресурсы/30_01_IT/Сети/DMZ]]

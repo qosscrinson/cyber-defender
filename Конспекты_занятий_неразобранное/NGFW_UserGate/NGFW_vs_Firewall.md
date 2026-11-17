@@ -70,7 +70,7 @@ flowchart LR
 
 ## Связи
 - [[UserGate_NGFW]]
-- [[Firewall]]
+- [[30_Ресурсы/30_01_IT/Сети/Firewall]]
 - [[UserGate_Правила_Firewall]]
 - [[UserGate_СОВ]]
 - [[UserGate_SSL_Инспекция]]

@@ -94,4 +94,4 @@ SNAT IP (внешний адрес): <публичный IP>
 - [[UserGate_NGFW]]
 - [[UserGate_Правила_Firewall]]
 - [[Шлюз_по_умолчанию]]
-- [[Firewall]]
+- [[30_Ресурсы/30_01_IT/Сети/Firewall]]
