@@ -78,4 +78,4 @@ bridge fdb show dev vxlan0
 - [[30_Ресурсы/30_01_IT/Сети/Overlay_vs_SDN]]
 - [[30_Ресурсы/30_01_IT/Сети/Overlay_в_ЦОД]]
 - [[CDN_как_Overlay]]
-- [[VPN_как_Overlay]]
+- [[30_Ресурсы/30_01_IT/Сети/VPN_как_Overlay]]

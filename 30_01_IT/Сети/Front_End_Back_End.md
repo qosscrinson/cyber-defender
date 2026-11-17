@@ -61,4 +61,4 @@ curl -I https://shop.example.com     # front-end
 - [[DMZ]]
 - [[Firewall]]
 - [[ЦОД]]
-- [[Плоская_сеть]]
+- [[30_Ресурсы/30_01_IT/Сети/Плоская_сеть]]
