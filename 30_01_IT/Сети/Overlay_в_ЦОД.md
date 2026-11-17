@@ -72,6 +72,6 @@ bridge fdb show dev vxlan0
 
 ## Связи
 - [[Overlay_сети]]
-- [[VLAN]]
+- [[30_Ресурсы/30_01_IT/Сети/VLAN]]
 - [[ЦОД]]
 - [[Clos_топология]]
