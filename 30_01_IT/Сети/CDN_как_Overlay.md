@@ -64,5 +64,5 @@ curl -I https://example.com
 ## Связи
 - [[Overlay_сети]]
 - [[Multicast_Anycast]]
-- [[BGP]]
+- [[30_Ресурсы/30_01_IT/Сети/BGP]]
 - [[Backbone]]
