@@ -68,4 +68,4 @@ curl -H "Authorization: Bearer TOKEN" https://api.example.com/users/123
 ## Связи
 - [[Протокол_HTTP]]
 - [[Протокол_HTTPS]]
-- [[Инструмент_Postman]]
+- [[30_Ресурсы/30_01_IT/Сети/Инструменты/Инструмент_Postman]]
