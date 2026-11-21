@@ -172,8 +172,8 @@ ping 8.8.8.8
 7. Почему ответ не вернётся без SNAT?
 
 ## Связи
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_NGFW]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_Правила_Firewall]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_NAT]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_Журналы]]
+- [[UserGate_NGFW]]
+- [[UserGate_Правила_Firewall]]
+- [[UserGate_NAT]]
+- [[UserGate_Журналы]]
 - [[Протокол_NAT]]

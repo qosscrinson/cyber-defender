@@ -69,8 +69,8 @@ flowchart LR
 5. Чем пример FW отличается от примера NGFW?
 
 ## Связи
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_NGFW]]
-- [[30_Ресурсы/30_01_IT/Сети/Firewall]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_Правила_Firewall]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_СОВ]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_SSL_Инспекция]]
+- [[UserGate_NGFW]]
+- [[Firewall]]
+- [[UserGate_Правила_Firewall]]
+- [[UserGate_СОВ]]
+- [[UserGate_SSL_Инспекция]]

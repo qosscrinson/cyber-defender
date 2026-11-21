@@ -89,8 +89,8 @@ flowchart TB
 5. Что показывает дашборд SOC?
 
 ## Связи
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_NGFW]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_Правила_Firewall]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_СОВ]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_SSL_Инспекция]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_Web_Фильтрация]]
+- [[UserGate_NGFW]]
+- [[UserGate_Правила_Firewall]]
+- [[UserGate_СОВ]]
+- [[UserGate_SSL_Инспекция]]
+- [[UserGate_Web_Фильтрация]]

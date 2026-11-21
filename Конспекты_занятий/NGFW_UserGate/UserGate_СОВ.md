@@ -86,8 +86,8 @@ flowchart LR
 5. Где смотреть события СОВ?
 
 ## Связи
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_NGFW]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_Правила_Firewall]]
-- [[Inbox/30_Ресурсы/Конспекты_занятий_неразобранное/NGFW_UserGate/NGFW_vs_Firewall]]
-- [[30_Ресурсы/30_01_IT/Сети/Firewall]]
-- [[30_Ресурсы/30_01_IT/Сети/DMZ]]
+- [[UserGate_NGFW]]
+- [[UserGate_Правила_Firewall]]
+- [[NGFW_vs_Firewall]]
+- [[Firewall]]
+- [[DMZ]]

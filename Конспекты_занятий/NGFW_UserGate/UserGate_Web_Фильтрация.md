@@ -90,8 +90,8 @@ flowchart LR
 5. Что такое морфология?
 
 ## Связи
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_NGFW]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_Правила_Firewall]]
-- [[Inbox/30_Ресурсы/Конспекты_занятий_неразобранное/NGFW_UserGate/UserGate_SSL_Инспекция]]
-- [[Inbox/30_Ресурсы/Конспекты_занятий_неразобранное/NGFW_UserGate/NGFW_vs_Firewall]]
-- [[Inbox/30_Ресурсы/Конспекты_занятий_неразобранное/NGFW_UserGate/UserGate_Журналы]]
+- [[UserGate_NGFW]]
+- [[UserGate_Правила_Firewall]]
+- [[UserGate_SSL_Инспекция]]
+- [[NGFW_vs_Firewall]]
+- [[UserGate_Журналы]]

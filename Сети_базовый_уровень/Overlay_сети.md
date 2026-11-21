@@ -75,7 +75,7 @@ bridge fdb show dev vxlan0
 5. Overlay работает без underlay?
 
 ## Связи
-- [[30_Ресурсы/30_01_IT/Сети/Overlay_vs_SDN]]
-- [[30_Ресурсы/30_01_IT/Сети/Overlay_в_ЦОД]]
-- [[Проекты/Киберзащитник/Сети_базовый_уровень/CDN_как_Overlay]]
-- [[30_Ресурсы/30_01_IT/Сети/VPN_как_Overlay]]
+- [[Overlay_vs_SDN]]
+- [[Overlay_в_ЦОД]]
+- [[CDN_как_Overlay]]
+- [[VPN_как_Overlay]]

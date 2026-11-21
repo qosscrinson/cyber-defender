@@ -85,8 +85,8 @@ Connections per second: 100
 5. Где ещё, кроме правил, есть защита от DoS?
 
 ## Связи
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_NGFW]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_Зоны]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_Правила_Firewall]]
-- [[30_Ресурсы/30_01_IT/Сети/Firewall]]
-- [[Inbox/30_Ресурсы/Конспекты_занятий_неразобранное/NGFW_UserGate/UserGate_Журналы]]
+- [[UserGate_NGFW]]
+- [[UserGate_Зоны]]
+- [[UserGate_Правила_Firewall]]
+- [[Firewall]]
+- [[UserGate_Журналы]]

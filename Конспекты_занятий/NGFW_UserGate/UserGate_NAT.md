@@ -91,7 +91,7 @@ SNAT IP (внешний адрес): <публичный IP>
 
 ## Связи
 - [[Протокол_NAT]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_NGFW]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_Правила_Firewall]]
+- [[UserGate_NGFW]]
+- [[UserGate_Правила_Firewall]]
 - [[Шлюз_по_умолчанию]]
-- [[30_Ресурсы/30_01_IT/Сети/Firewall]]
+- [[Firewall]]

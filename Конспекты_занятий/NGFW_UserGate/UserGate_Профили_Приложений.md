@@ -117,8 +117,8 @@ flowchart TB
 6. Какую ошибку в браузере даёт действие «Сбросить»?
 
 ## Связи
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_NGFW]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_Правила_Firewall]]
-- [[Inbox/30_Ресурсы/Конспекты_занятий_неразобранное/NGFW_UserGate/UserGate_Web_Фильтрация]]
-- [[Inbox/30_Ресурсы/Конспекты_занятий_неразобранное/NGFW_UserGate/UserGate_SSL_Инспекция]]
-- [[Inbox/30_Ресурсы/Конспекты_занятий_неразобранное/NGFW_UserGate/UserGate_Практика_Доступ_в_Интернет]]
+- [[UserGate_NGFW]]
+- [[UserGate_Правила_Firewall]]
+- [[UserGate_Web_Фильтрация]]
+- [[UserGate_SSL_Инспекция]]
+- [[UserGate_Практика_Доступ_в_Интернет]]

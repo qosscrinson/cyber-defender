@@ -100,8 +100,8 @@ flowchart TB
 5. Что такое Bond?
 
 ## Связи
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_NGFW]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_Зоны]]
-- [[30_Ресурсы/30_01_IT/Сети/VLAN]]
-- [[Inbox/30_Ресурсы/Конспекты_занятий_неразобранное/NGFW_UserGate/Сегментация_VLAN_и_Маски]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_Правила_Firewall]]
+- [[UserGate_NGFW]]
+- [[UserGate_Зоны]]
+- [[VLAN]]
+- [[Сегментация_VLAN_и_Маски]]
+- [[UserGate_Правила_Firewall]]

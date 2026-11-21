@@ -107,8 +107,8 @@ curl.exe -A "blacksun" http://api.ipify.org
 6. Где смотреть срабатывание сигнатуры?
 
 ## Связи
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_СОВ]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_Правила_Firewall]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_Профили_Приложений]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_Практика_Доступ_в_Интернет]]
-- [[Inbox/30_Ресурсы/Конспекты_занятий_неразобранное/NGFW_UserGate/NGFW_vs_Firewall]]
+- [[UserGate_СОВ]]
+- [[UserGate_Правила_Firewall]]
+- [[UserGate_Профили_Приложений]]
+- [[UserGate_Практика_Доступ_в_Интернет]]
+- [[NGFW_vs_Firewall]]

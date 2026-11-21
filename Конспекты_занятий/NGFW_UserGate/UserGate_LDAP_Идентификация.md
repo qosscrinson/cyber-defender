@@ -111,8 +111,8 @@ SSL: включить
 6. Зачем нужен SSL для LDAP?
 
 ## Связи
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_NGFW]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_Правила_Firewall]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_Web_Фильтрация]]
-- [[Проекты/Киберзащитник/Конспекты_занятий/NGFW_UserGate/UserGate_Зоны]]
+- [[UserGate_NGFW]]
+- [[UserGate_Правила_Firewall]]
+- [[UserGate_Web_Фильтрация]]
+- [[UserGate_Зоны]]
 - [[LDAP_и_Active_Directory]]

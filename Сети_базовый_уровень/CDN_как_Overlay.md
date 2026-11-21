@@ -62,7 +62,7 @@ curl -I https://example.com
 5. Примеры CDN?
 
 ## Связи
-- [[30_Ресурсы/30_01_IT/Сети/Overlay_сети]]
-- [[30_Ресурсы/30_01_IT/Сети/Multicast_Anycast]]
-- [[30_Ресурсы/30_01_IT/Сети/BGP]]
-- [[Проекты/Киберзащитник/Сети_базовый_уровень/Backbone]]
+- [[Overlay_сети]]
+- [[Multicast_Anycast]]
+- [[BGP]]
+- [[Backbone]]
