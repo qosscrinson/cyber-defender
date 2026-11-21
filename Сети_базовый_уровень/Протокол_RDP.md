@@ -1,6 +1,6 @@
 ---
 title: Протокол_RDP
-tags: [ИТ, сети, протоколы, RDP, S7]
+tags: [ИТ, сети, протоколы, RDP]
 aliases: [Remote_Desktop_Protocol, Удаленный_рабочий_стол]
 created: 2026-11-15
 course: Основы ИТ и ИБ
