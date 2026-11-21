@@ -155,6 +155,6 @@ flowchart TB
 
 ## Связи
 - [[Основы_ИТ_и_ИБ_Каркас]]
-- [[1_MOC_UserGate_NGFW]]
+- [[MOC_UserGate_NGFW]]
 - [[Итоги_цикла_сети]]
 - [[Firewall]]
